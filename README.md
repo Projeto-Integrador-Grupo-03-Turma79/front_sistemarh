@@ -55,7 +55,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Adelina Vitória da Cruz Santos</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+          <a href="www.linkedin.com/in/adelina-santos-138b83240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         </sub>
       </a>
     </td>
@@ -65,7 +65,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Beatriz Sousa Borges</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/beatriz-s-borges-34305a307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -75,7 +75,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Denner dos Anjos Moura da Silva</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/denner-dos-anjos-moura-da-silva-60607833b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -95,7 +95,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Maria Eduarda de Oliveira Costa</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href="www.linkedin.com/in/mariaedu13" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -105,7 +105,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Otávio Ferreira da Silva</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/otávio-ferreira-587565318/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
