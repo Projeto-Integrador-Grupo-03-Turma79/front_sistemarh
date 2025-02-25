@@ -54,6 +54,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/6967233f-04ac-4164-a283-b2545c255cd0" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Adelina Vitória da Cruz Santos</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         </sub>
       </a>
     </td>
@@ -62,6 +64,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/e1a035c3-bdb3-4d1b-a914-528be42d3ab9" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Beatriz Sousa Borges</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -70,6 +74,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/795bea09-7a6d-4d00-b6eb-ef483ce77043" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Denner dos Anjos Moura da Silva</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -78,6 +84,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/ccc36d71-972c-4159-80bf-da87ea382bfa" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Lucas da Silva Pimentel</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -86,6 +94,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/8aec2dcb-6e4e-4d51-9b37-b4695c65de95" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Maria Eduarda de Oliveira Costa</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
@@ -94,6 +104,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://github.com/user-attachments/assets/7d0a5936-97bd-4a0e-99be-3fd54e1ef465" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Otávio Ferreira da Silva</b>
+          <br></br>
+          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
