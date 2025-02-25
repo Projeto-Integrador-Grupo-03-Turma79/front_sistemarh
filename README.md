@@ -85,7 +85,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <sub>
           <b>Lucas da Silva Pimentel</b>
           <br></br>
-          <a href="https://www.linkedin.com/in/mariacosta08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/lucas-da-silva-pimentel-8ab71b254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         </sub>
       </a>
     </td>
