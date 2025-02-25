@@ -1,6 +1,6 @@
 const people = [
     {
-      nome: 'Paula Tejano',
+      nome: 'Paula Oliveira',
       cargo: 'Chefe Administrativa',
       imageUrl:
         'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -8,7 +8,7 @@ const people = [
       nascimento: '17/08/1987',
     },
     {
-      nome: 'Simas Turbo',
+      nome: 'Mario Testino',
       cargo: 'Mecânico',
       imageUrl:
         'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -16,7 +16,7 @@ const people = [
       nascimento: '12/12/1992',
     },
     {
-      nome: 'Quico Tesourado',
+      nome: 'Julio Okubo',
       cargo: 'Tesoureiro',
       imageUrl:
         'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -24,7 +24,7 @@ const people = [
       nascimento: '04/06/2000',
     },
     {
-      nome: 'Amanda Nunes',
+      nome: 'Amanda Damasceno',
       cargo: 'Desenhista',
       imageUrl:
         'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
@@ -32,15 +32,15 @@ const people = [
       nascimento: '03/11/1999',
     },
     {
-        nome: 'Ana Konda',
-        cargo: 'Herdeira',
+        nome: 'Ana Maria Silva',
+        cargo: 'Desenhista Pleno',
         imageUrl:
           'https://media.istockphoto.com/id/1389348844/pt/foto/studio-shot-of-a-beautiful-young-woman-smiling-while-standing-against-a-grey-background.jpg?b=1&s=612x612&w=0&k=20&c=eEcTO_KNgG9kUhtkiU-RaDJveugHsH_fV1-gArq3AE0=',
         salario: 'R$4.000',
         nascimento: '17/02/1990',
       },
       {
-        nome: 'Oscar Alho',
+        nome: 'Marcos Lúcio',
         cargo: 'Desenhista',
         imageUrl:
           'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600',
@@ -48,7 +48,7 @@ const people = [
         nascimento: '03/09/2001',
       },
       {
-        nome: 'Dayde Costa',
+        nome: 'Dayane da Costa',
         cargo: 'Dona',
         imageUrl:
           'https://images.pexels.com/photos/1197132/pexels-photo-1197132.jpeg?auto=compress&cs=tinysrgb&w=600',
@@ -57,8 +57,8 @@ const people = [
       },
 
       {
-        nome: 'Cuca Beludo',
-        cargo: 'Matador de Javali',
+        nome: 'Silvio Maia',
+        cargo: 'Mostorista',
         imageUrl:
           'https://images.pexels.com/photos/395085/pexels-photo-395085.jpeg?auto=compress&cs=tinysrgb&w=600',
         salario: 'R$4.500',
