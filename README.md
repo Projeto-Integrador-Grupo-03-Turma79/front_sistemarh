@@ -22,13 +22,13 @@ Para instalar o projeto RH Ivan, siga estas etapas:
 Linux e macOS:
 
 ```
-git clone 
+git clone git@github.com:Projeto-Integrador-Grupo-03-Turma79/front_sistemarh.git
 ```
 
 Windows:
 
 ```
-git clone
+git clone https://github.com/Projeto-Integrador-Grupo-03-Turma79/front_sistemarh.git
 ```
 
 ## 📫 Contribuindo para projeto RH Ivan
