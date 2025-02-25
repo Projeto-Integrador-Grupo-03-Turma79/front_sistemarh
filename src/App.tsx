@@ -1,16 +1,23 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css'
-import ListaFuncionarios from './pages/listafuncionarios/ListaFuncionarios';
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Home from './pages/home/Home'
+import Navbar from './components/navbar/Navbar'
+import Footer from './components/footer/Footer'
 
 function App() {
 
   return (
-    <>
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<ListaFuncionarios />} />
-        <Route path="/listafuncionarios" element={<ListaFuncionarios />} />
-      </Routes>
+   <>
+      <BrowserRouter>
+        <Navbar />
+        <div className='min-h-[80vh]'>
+        <Routes>
+          <Route path="/" element={<Home/>} />
+          <Route path="/sobre" element={<Home/>} />
+          <Route path="/listafuncionarios" element={<Home/>} />
+        </Routes>
+        </div>
+        <Footer /> 
       </BrowserRouter>
     </>
   );
