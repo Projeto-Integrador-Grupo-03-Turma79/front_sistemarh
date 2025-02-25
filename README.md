@@ -9,44 +9,34 @@
 ![Bitbucket open pull requests](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwlind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="https://media.discordapp.net/attachments/1306246505572728882/1343998869104627742/image.png?ex=67bf4ffc&is=67bdfe7c&hm=56bf9fe8cd49557fc1d5fab60610a1642706e84230b6abfb12276910a6daf210&=&format=webp&quality=lossless&width=1221&height=612" alt="Exemplo imagem">
 
 > [!TIP]
 > Um sistema de RH que automatiza a gestão de funcionários, desde as informações principais dos funcionários. Como folha de pagamento, cargo, salário, CPF e data de nascimento. A plataforma centraliza dados e facilita a comunicação interna, assim melhorando a eficiência.
 
 
-## 🚀 Instalando o projeto RG>
+## 🚀 Instalando o projeto RH
 
 Para instalar o projeto RH, siga estas etapas:
 
 Linux e macOS:
 
 ```
-<comando_de_instalação>
+git clone 
 ```
 
 Windows:
 
 ```
-<comando_de_instalação>
+git clone
 ```
 
-## ☕ Usando o projeto RH
+## 📫 Contribuindo para projeto RH
 
-Para usar o projeto RH, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com o projeto RH, siga estas etapas:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
+2. Crie um branch: `git checkout -b <nome_branch`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
@@ -61,7 +51,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/user-attachments/assets/6967233f-04ac-4164-a283-b2545c255cd0" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Adelina Vitória da Cruz Santos</b>
         </sub>
@@ -69,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://github.com/user-attachments/assets/e1a035c3-bdb3-4d1b-a914-528be42d3ab9" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Beatriz Sousa Borges</b>
         </sub>
@@ -77,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://drive.google.com/file/d/1yK9FZQANUd4rLB4iGmvIZx0YFdzkDw9Q/view?usp=sharing" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/user-attachments/assets/795bea09-7a6d-4d00-b6eb-ef483ce77043" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Denner dos Anjos Moura da Silva</b>
         </sub>
@@ -85,7 +75,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/user-attachments/assets/ccc36d71-972c-4159-80bf-da87ea382bfa" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Lucas da Silva Pimentel</b>
         </sub>
@@ -93,7 +83,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/user-attachments/assets/8aec2dcb-6e4e-4d51-9b37-b4695c65de95" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Maria Eduarda de Oliveira Costa</b>
         </sub>
@@ -101,7 +91,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/user-attachments/assets/7d0a5936-97bd-4a0e-99be-3fd54e1ef465" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>Otávio Ferreira da Silva</b>
         </sub>
