@@ -7,7 +7,6 @@ import Footer from './components/footer/Footer'
 function App() {
 
   return (
-  
    <>
       <BrowserRouter>
         <Navbar />
@@ -21,7 +20,7 @@ function App() {
         <Footer /> 
       </BrowserRouter>
     </>
-  )
+  );
 }
 
 export default App
