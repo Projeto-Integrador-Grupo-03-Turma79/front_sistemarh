@@ -1,4 +1,4 @@
-# RH
+# RH Ivan
 
 ### Ferramentas utilizadas
 
@@ -15,9 +15,9 @@
 > Um sistema de RH que automatiza a gestão de funcionários, desde as informações principais dos funcionários. Como folha de pagamento, cargo, salário, CPF e data de nascimento. A plataforma centraliza dados e facilita a comunicação interna, assim melhorando a eficiência.
 
 
-## 🚀 Instalando o projeto RH
+## 🚀 Instalando o projeto RH Ivan
 
-Para instalar o projeto RH, siga estas etapas:
+Para instalar o projeto RH Ivan, siga estas etapas:
 
 Linux e macOS:
 
@@ -31,9 +31,9 @@ Windows:
 git clone
 ```
 
-## 📫 Contribuindo para projeto RH
+## 📫 Contribuindo para projeto RH Ivan
 
-Para contribuir com o projeto RH, siga estas etapas:
+Para contribuir com o projeto RH Ivan, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch`.
