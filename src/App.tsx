@@ -1,18 +1,26 @@
+import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import './App.css';
-import Sobre from './pages/sobre/Sobre'
+import Home from './pages/home/Home'
+import Navbar from './components/navbar/Navbar'
+import Footer from './components/footer/Footer'
+
 function App() {
-  
+
   return (
   
-    <>
-        <BrowserRouter>
+   <>
+      <BrowserRouter>
+        <Navbar />
+        <div className='min-h-[80vh]'>
         <Routes>
-              <Route path="/" element={<Sobre />} />
-              </Routes>
-        </BrowserRouter>   
-        
-         </>
+          <Route path="/" element={<Home/>} />
+          <Route path="/sobre" element={<Home/>} />
+          <Route path="/listafuncionarios" element={<Home/>} />
+        </Routes>
+        </div>
+        <Footer /> 
+      </BrowserRouter>
+    </>
   )
 }
 
